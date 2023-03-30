@@ -3,7 +3,7 @@ const notFound = {
   message: "Password or PhoneNumber is wrong!",
 };
 const notFillingError = {
-  message: "Please fill all fields!",
+  message: "Please  fill all fields!",
 };
 const errorNotifier = ({ errorStatus }) => {
   switch (errorStatus) {
